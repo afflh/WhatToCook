@@ -1,0 +1,31 @@
+
+{
+  "expo": {
+    "name": "ReactNativeUI",
+    "slug": "ReactNativeUI",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/images/welcome.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/images/welcome.png",
+      "resizeMode": "contain",
+      "backgroundColor": "black"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/images/welcome.png",
+        "backgroundColor": "black"
+      }
+    },
+    "web": {
+      "favicon": "./assets/images/welcome.png"
+    }
+  }
+}
